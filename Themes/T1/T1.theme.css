@@ -39,13 +39,13 @@
 
   - Change the values between ":" and ";" | Do not remove the colons or semicolons.
 */
-  --Main_Background: url(https://eight-p.github.io/BD.8P/Themes/T1/imports/Main-bg.jpg);
-  --Main_Brightness: 80 ;
-  --Main_Background_blur: 0 ;
+  --Main_Background: url(https://images4.alphacoders.com/129/thumb-1920-1297318.jpg);
+  --Main_Brightness: 70 ;
+  --Main_Background_blur: 30 ;
   
-  --Server_Background: url(https://eight-p.github.io/BD.8P/Themes/T1/imports/Server-bg.jpg);
-  --Server_Brightness: 100 ;
-  --Server_Background_blur: 0 ;
+  --Server_Background: url(https://images.alphacoders.com/134/thumb-1920-1349403.jpeg);
+  --Server_Brightness: 70 ;
+  --Server_Background_blur: 30 ;
 
   /* Chat buttons */
   --show-nitro-btn: 0 ;
